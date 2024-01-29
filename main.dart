@@ -1,0 +1,23 @@
+// >>>  Assignment Number 2 <<< //
+// << QUESTION NO: 1 >>
+// << QUESTION NO: 2 >>
+// << QUESTION NO: 3 >>
+// << QUESTION NO: 4 >>
+// << QUESTION NO: 5 >>
+// << QUESTION NO: 6 >>
+// << QUESTION NO: 7 >>
+// << QUESTION NO: 8 >>
+// << QUESTION NO: 9 >>
+// << QUESTION NO: 10 >>
+// << QUESTION NO: 11 >>
+// << QUESTION NO: 12 >>
+// << QUESTION NO: 13 >>
+// << QUESTION NO: 14 >>
+// << QUESTION NO: 15 >>
+// << QUESTION NO: 16 >>
+// << QUESTION NO: 17 >>
+// << QUESTION NO: 18 >>
+// << QUESTION NO: 19 >>
+// << QUESTION NO: 20 >>
+// << QUESTION NO: 21 >>
+// << QUESTION NO: 22 >>
